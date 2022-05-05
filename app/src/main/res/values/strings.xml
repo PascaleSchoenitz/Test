@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToastÜbung</string>
+    <string name="text">Toast ausgeben (direkt)</string>
+</resources>
